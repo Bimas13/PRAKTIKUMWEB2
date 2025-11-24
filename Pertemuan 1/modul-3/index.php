@@ -99,4 +99,5 @@ $mhs1->setNim("231001042"); // 3 digit - Gagal
     </div>
 
 </body>
+<!--MODUL 3: ENCAPSULATION (ENKAPSULASI) -->
 </html>
