@@ -91,5 +91,5 @@ $mhs2 = new Mahasiswa2("AHMAD MUAMAR HAMIDAN", "2310010099");
     </div>
 
 </body>
-
+<!--MODUL 2: KONSTRUKTOR, DESTRUKTOR, DAN KEYWORD $THIS -->
 </html>
