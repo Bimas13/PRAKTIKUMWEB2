@@ -79,5 +79,5 @@ $mhs2->nim = "2310010099";
     </div>
 
 </body>
-
+ <!--  1: KONSEP DASAR OOP DI PHP  -->
 </html>
