@@ -100,4 +100,5 @@ $admin1 = new Admin("AHMAD MUAMAR HAMIDAN");
     </div>
 
 </body>
+    <!-- MODUL 4: INHERITANCE (PEWARISAN) -->
 </html>
