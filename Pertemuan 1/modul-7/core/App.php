@@ -76,4 +76,5 @@ class App
         // Jika $_GET['url'] tidak disetel (akses langsung tanpa path), kembalikan controller default
         return [$this->controller];
     }
+    //MODUL 7: CORE DAN ROUTING DASAR 
 }
